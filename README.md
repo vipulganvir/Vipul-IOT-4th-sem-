@@ -1,2 +1,2 @@
 # Vipul-IOT-4th-sem-
-it contain core knowledge of IOT
+It contains core knowledge of IOT
